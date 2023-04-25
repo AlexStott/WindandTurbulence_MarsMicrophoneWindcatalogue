@@ -15,7 +15,9 @@ Contents:
   - "turbo.mat" - colourmap for Matlab
 
 The pressure drop catalogue is originally available in Hueso et al. (2022) https://doi.org/10.5281/zenodo.7315863
+
 The turbulent heatflux values are originally available in Martinez et al. (2022) https://repository.hou.usra.edu/handle/20.500.11753/1839
+
 The downwelling flux values are originally available in Smith et al. (2022) http://doi.org/10.17632/48phhtkcj8.1
 
 The original data available on the NASA PDS at https://doi.org/10.17189/1522646 for the microphone data and https://doi.org/10.17189/1522849 for the MEDA meteorological data.
